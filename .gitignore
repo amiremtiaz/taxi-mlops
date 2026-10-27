@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Data
+/data/
+*.csv
+*.parquet
+
+# ML outputs
+mlruns/
+mlartifacts/
+
+# Airflow
+logs/
+*.log
+
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
