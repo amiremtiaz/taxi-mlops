@@ -1,0 +1,3 @@
+# Green Taxi MLops Practice
+
+### We will use of Airflow, Mlflow, git, docker ...
